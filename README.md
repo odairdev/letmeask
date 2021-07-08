@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
 
-## Available Scripts
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+</p>
 
-In the project directory, you can run:
+<h1 align="center">
+    <img alt="Letmeask" src=".github/cover.svg" />
+</h1>
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🧪 Technologies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project was made by using the following technologies:
 
-### `yarn test`
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Setup
 
-### `yarn build`
+- Clone this repository and enter the folder `cd Letmeask`
+- Install dependencies using `yarn`
+- Insert [Firebase](https://firebase.google.com/) (with Realtime Database) credentials on ``.env``
+- Run the app by typing `yarn dev`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Now you can access [`localhost:3000`](http://localhost:3000) on your web browser.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 💻 Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Letmeask is a good solution for content creators, where they can open free Q&A rooms for their public.
 
-### `yarn eject`
+## 🔖 Layout
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+You can visualize the layout of this project through [this link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate), however, a [Figma account](http://figma.com/) is required to access it.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This project is under the MIT license. See [LICENSE](LICENSE.md) for more details.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with ♥ by Rocketseat and recoded by me 👋🏻
